@@ -1,0 +1,6 @@
+# therakot/logger .gitignore
+
+/.idea
+/vendor
+/logs
+/src/logs
