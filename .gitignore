@@ -4,3 +4,4 @@
 /vendor
 /logs
 /src/logs
+/composer.lock
